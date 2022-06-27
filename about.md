@@ -47,6 +47,10 @@ Apart from my work experience I have skills in Developing data pipeline for big 
 
 **Data Viz** : PowerBI
 
+**Tools** : Git, Jupyter
+
+**Languages** : English - C2, Italian - B1
+
 
 ## Summary
 
