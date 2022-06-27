@@ -62,6 +62,11 @@ Apart from my work experience I have skills in Developing data pipeline for big 
 
 > Developing REST API's for Machine learning models and deploying the model. 
 
- 
+> Python, R, SQL, pandas, numpy, scikit -learn, tensorflow, Flask, Power BI, Excel, Powerpoint.
 
-> Python, R, SQL, pandas, numpy, scikit -learn, tensorflow, Flask, Power BI, Excel, Powerpoint
+
+## Contact
+
+**Email** - bushipakapraveen@gmail.com
+
+**Phone** - +39 3343497128, +91 8374076031
