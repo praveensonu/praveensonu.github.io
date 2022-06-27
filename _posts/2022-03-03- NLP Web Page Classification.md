@@ -2,7 +2,7 @@
 layout: post
 title: Predicting Web Article Genre
 subtitle: Summary
-categories: NLP, Data Science
+categories: NLP
 tags: [NLP, Python, Classification]
 ---
 
