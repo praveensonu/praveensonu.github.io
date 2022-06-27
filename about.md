@@ -11,7 +11,7 @@ Experienced Data Scientist with a demonstrated history of working in optimizing 
 
 > Data wrangling and Data cleaning from raw data and extracting data insights and identifying KPI's.
 
-> Researching (reading research papers) and identifyng best approaches for a business case. 
+> Researching (through research papers) and identifyng best approaches for a business case. 
 
 > Using Advanced analytics and developing Machine Learning Models for a business case.
 
