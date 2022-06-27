@@ -48,7 +48,7 @@ Apart from my work experience I have skills in Developing data pipeline for big 
 **Data Viz** : PowerBI
 
 
-Summary:
+## Summary:
 
 > Data Scientist with skills in Data analytics, ML, and basics in Data engineering and MLOps in the domain of customer analytics.
 
