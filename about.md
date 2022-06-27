@@ -36,7 +36,7 @@ Bhave is a startup in heath care analytics in Rome Italy. I joined in the data d
 Apart from my work experience I have skills in Developing data pipeline for big data(data engineering). I also have skills in developing API's for developed ML model and later on deploy it on web. 
 
 
-## Skills: 
+## Skills 
 **Programming & Querying** : Python, R, SQL
 
 **Data science librabries** : Pandas, Numpy, Scipy, Scikit-learn, TensorFlow
@@ -48,7 +48,7 @@ Apart from my work experience I have skills in Developing data pipeline for big 
 **Data Viz** : PowerBI
 
 
-## Summary:
+## Summary
 
 > Data Scientist with skills in Data analytics, ML, and basics in Data engineering and MLOps in the domain of customer analytics.
 
