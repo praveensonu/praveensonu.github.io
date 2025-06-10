@@ -1,4 +1,4 @@
----
+
 title: "Legal Holding Extraction from Italian Case Documents using Italian LEGAL BERT Text Summarization"
 collection: publications
 category: conferences
