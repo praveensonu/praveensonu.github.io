@@ -7,7 +7,7 @@ excerpt: 'In this paper we present a novel rhetorical role classification techni
 date: 2023-09-23
 venue: 'ASAIL-23'
 paperurl: '[https://dl.acm.org/doi/abs/10.1145/3594536.3595177)](https://ceur-ws.org/Vol-3441/paper4.pdf)'
-citation: 'Gabriele Marino, Daniele Licari, Praveen Bushipaka, Giovanni Comandé, Tommaso Cucinotta'
+authors: 'Gabriele Marino, Daniele Licari, Praveen Bushipaka, Giovanni Comandé, Tommaso Cucinotta'
 ---
 
 Automatic identification of rhetorical roles can help in many downstream applications of legal documents analysis, such as legal decisions summarization and legal search. This is usually a complex task, even for humans, due to its inherent subjectivity and to the difficulty of capturing sentence context in very long legal documents. We propose a novel approach, based on Hierarchical Transformers, which overcomes these problems and achieves promising results on two different datasets of Italian and English legal judgments. Specifically, we introduce LEGAL-TransformerOverBERT (LEGAL-ToBERT), a model based on the stacking of a transformer encoder over a legal-domain-specific BERT model, and show that our approach is able to significantly improve the baselines set by the stand-alone LEGAL-BERT models, by capturing the relationships between different sentences of the same document. We make our models available and ready-to-use for downstream applications of rhetorical roles classification in the legal context both for the Italian and English language.
