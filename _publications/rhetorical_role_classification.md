@@ -6,7 +6,7 @@ permalink: /publication/Rhetorical-role-classification
 excerpt: 'In this paper we present a novel rhetorical role classification technique. The paper was accepted to 6th workshop on Automated semantic analysis of information in legal text.'
 date: 2023-09-23
 venue: 'ASAIL-23'
-paperurl: '[https://dl.acm.org/doi/abs/10.1145/3594536.3595177)](https://ceur-ws.org/Vol-3441/paper4.pdf)'
+paperurl: 'https://ceur-ws.org/Vol-3441/paper4.pdf'
 authors: 'Gabriele Marino, Daniele Licari, Praveen Bushipaka, Giovanni Comandé, Tommaso Cucinotta'
 ---
 
