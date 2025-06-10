@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Legal Holding Extraction from Italian Case Documents using Italian LEGAL BERT Text Summarization"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
