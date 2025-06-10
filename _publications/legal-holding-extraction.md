@@ -3,7 +3,7 @@ title: "Legal Holding Extraction from Italian Case Documents using Italian LEGAL
 collection: publications
 category: conferences
 permalink: /publication/Legal-Holding-Summarization
-excerpt: 'In this paper we present a novel legal holding documents summarization technique with Italian-LEGAL-BERT. The paper was accepted to 19th Internation Conference on AI and Law (ICAIL '23). This paper is a part of giustizia agile project (an Italian nation wide project to fasten the Judicial system using AI)'
+excerpt: 'In this paper we present a novel legal holding documents summarization technique with Italian-LEGAL-BERT. The paper was accepted to 19th Internation Conference on AI and Law (ICAIL-23). This paper is a part of giustizia agile project (an Italian nation wide project to fasten the Judicial system using AI)'
 date: 2023-09-07
 venue: 'ICAIL-23'
 citation: 'Daniele Licari, Praveen Bushipaka, Gabriele Marino, Giovanni Comandé, Tommaso Cucinotta'
