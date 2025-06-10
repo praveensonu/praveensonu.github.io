@@ -1,7 +1,7 @@
 ---
 title: "Legal Holding Extraction from Italian Case Documents using Italian-LEGAL-BERT Text Summarization"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/Legal Holding Summarization
 excerpt: 'This paper is a part of giustizia agile project (an Italian nation wide project to fasten the Judicial system using AI. In this paper we provide a novel legal holding documents summarization technique with Italian-LEGAL-BERT. The paper was accepted to 19th Internation Conference on AI and Law (ICAIL '23) '
 date: 2009-10-01
