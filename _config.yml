@@ -23,13 +23,13 @@ repository               : "praveensonu/praveensonu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Praveen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student in AI for Society | Machine Unlearning in LLMs"
+  location         : "Pisa, Italy"
+  employer         : "Scuola Superiore Sant'Anna"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "praveen.bushipaka@santannapisa.it, praveen.bushipaka@phd.unipi.it" 
 
   # Academic websites
   academia         : # URL
